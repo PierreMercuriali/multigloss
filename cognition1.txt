@@ -1,0 +1,197 @@
+Abduction--Reasoning that generates hypotheses to explain puzzling facts.
+
+ACT -- “Adaptive Control of Thought”  A computational theory of thinking developed by John Anderson.
+
+Affective computing-- Study of computing technology that relates to, arises from, or deliberately influences emotions.
+
+Algorithm-- A step-by-step procedure for solving a problem.
+
+Amygdala --Almond-shaped part of the brain involved in emotions such as fear.
+
+Analogy --Mental process that makes connections between relations in two sets of objects.
+
+Anthropology --The study of the origins, distribution, social relations, and culture of human beings.
+
+Artificial intelligence --The study of how computers can be programmed to perceive, reason, and act.
+
+Backprogagation --Learning algorithm in feedforward networks that adjusts the strengths of the links between neurons.
+
+Bayesian network --A directed graph that that can be used to reason with probabilistic information.
+
+Case-based reasoning --Reasoning by analogy.
+
+Chaos --Property of a dynamic system that it is highly sensitive to small changes.
+
+Cognitive grammar --Approach to linguistics that rejects the traditional separation of syntax and semantics.
+
+Cognitive science --The interdisciplinary study of mind and intelligence.
+
+Coma --State of deep unconsciousness caused by disease or injury.
+
+Computation --Physical process with states that represent states of another system and with transitions between states that amount to operations on the representations.
+
+Concept --Mental representation of a class of objects or events that belong together, usually corresponding to a word.
+
+Conceptual change --Process in which concepts acquire new meaning.
+
+Conceptual combination --Process in which new concepts are constructed by joining or juxtaposing old ones.
+
+Connectionism --Approach to cognitive science that models thinking by artificial neural networks.
+
+Consciousness-- Mental state involving attention, awareness, and qualitative experience.
+
+Cortex --Outer layer of the brain, responsible for many higher cognitive functions.
+
+CRUM --The Computational-Representational Understanding of Mind: the hypothesis that thinking is performed by computations operating on representations.
+
+Culture --The way of life of a society, including beliefs and behaviors.
+
+Data structure --An organization of information in a computer program.
+
+Deduction --Reasoning from premises to a conclusion such that if the premises are true then the conclusion must also be true.
+
+Distributed artificial intelligence --Problem solving that requires communication among more than one computer, each of which possesses some intelligence.
+
+Distributed cognition --Problem solving that requires communication among more than one thinker.
+
+Distributed representation --Neural networks that use patterns of activity in multiple nodes or neurons to stand for objects or situations.
+
+Dopamine --Neurotransmitter involved in reward pathways in the brain.
+
+Dualism --Philosophical view that the mind consists of two separate substances, soul and body.
+
+Dynamic (dynamical) system --Collection of interacting objects whose changes are describable by mathematical equations.
+
+Electroencephalogram (EEG) --Recording of electrical activity in the brain.
+
+Embodiment --Property of having a body and experiencing the world by means of it.
+
+Emotion --Positive or negative mental state that combines physiological input with cognitive appraisal.
+
+Emotional intelligence --Ability to deal effectively with the emotions of oneself and others.
+
+Empiricism --The philosophical view that knowledge comes primarily from sensory experience.
+
+Explanation schema --Mental representation of a pattern of causal connections.
+
+Feedforward network --Artificial neural network in which the flow of activity is in one direction, from input neurons to output neurons.
+
+Frame --Data structure that represents a concept or schema.
+
+Functionalism --Version of materialism according to which mental states are defined by their functional relations, not by any particular kind of physical realization.
+
+Hebbian learning --Process in neural networks that strengthens the association between two neurons that are simultaneously active.
+
+Hippocampus --Brain region involved in the acquisition of memories.
+
+Image --Mental structure that is similar to what it represents.
+
+Induction --Reasoning that introduces uncertainty.
+
+Inheritance --Form of inference in which information is transferred from a higher to a lower structure.
+
+Innate --A representation or process that is genetic rather than learned.
+
+Insula (insular cortex) --Brain region that integrates information from many bodily senses.
+
+Intentionality --Property of a representation or mental state that it is about some aspect of the world.
+
+Lesion --Abnormal change in an organ such as the brain.
+
+Linguistics --The study of language.
+
+Link --Connection between two artificial neurons that enables one to influence the activity of the other.
+
+Local representation --Artificial neural network in which each node stands for a single concept or proposition.
+
+Logic --The study of valid reasoning.
+
+Magnetic resonance imaging (MRI and fMRI) --Technique that uses magnets to produce images of the structure and function of organs.
+
+Materialism --Philosophical view that minds are purely physical.
+
+Meaning --The content of a representation that results from its relations to other representations and the world.
+
+Mechanism --System of interconnected parts that produces regular changes.
+
+Memory --Storage of information, either temporary (short-term or working memory) or permanent (long-term).
+
+Mental model --Mental structure that approximately stands for something in the world.
+
+Mental representation-- A structure or process in the mind that stands for something.
+
+Metaphor --Use of language to understand and experience one kind of thing in terms of another.
+
+Model --Structure that approximately represents some objects or events.
+
+Multiagent system --Interacting collection of computers capable of intelligent action.
+
+Neural network --Interconnected group of neurons.
+
+Neuron --Nerve cell.
+
+Neuroscience --Study of the structure and functioning of brains.
+
+Neurotransmitter --Molecule that transmits nerve impulses across a synapse.
+
+Parallel --Process in which more than computation is performed at the same time.
+
+Parallel constraint satisfaction --Process in which a problem is solved by using a parallel algorithm to find the best assignment of values to interconnected aspects of the problem.
+
+Parallel distributed processing --Approach to cognitive science that models thinking by artificial neural networks with distributed representations.
+
+Philosophy --Study of the fundamental nature of knowledge, existence, and morality.
+
+Positron emission tomography (PET) --Technique that uses radioactive isotopes to produces images of the chemical function of organs such as blood flow in the brain.
+
+Prefrontal cortex --Area of the brain at the front of the front of the cortex, responsible for the highest cognitive functions such as reasoning.
+
+Production Rule-- a representation of the form IF something THEN something.
+
+Psychology --Study of the minds of humans and other animals.
+
+Rationalism --The philosophical view that knowledge comes primarily by reasoning that is independent of sensory experience.
+
+Recurrent network --Neural network in which the output of some neurons feeds back via intervening connections to become input to them.
+
+Relaxation --Process in which an artificial neural network reaches a state of stable activations.
+
+Representation --A structure or activity that stands for something.
+
+Robot --Machine capable of performing complex physical acts similar to ones done by humans.
+
+Rule-- A mental representation of the form IF something THEN something.
+
+Schema --A mental representation of a class of objects, events, or practices.
+
+Search --A computational process of looking for or carrying out a sequence of actions that lead to desired states.
+
+Situated action --Action that results from being embedded in a physical or social world.
+
+SOAR --“State, Operator, And Result” – A computational theory of thinking developed by Allen Newell and others.
+
+Social cognition --Study of how people think about each other.
+
+Social epistemology --Study of social practices that encourage or inhibit the development of knowledge.
+
+Somatic marker --Brain signal corresponding to states of the body relevant to emotions.
+
+Source analog --Set of objects, properties, and relations that suggests conclusions about a target analog.
+
+Spike train --Firing pattern of a neuron, consisting of a sequence of firing episodes.
+
+Spreading activation --Computational process in which the activity of one structure leads to the activity of an associated structure.
+
+Syllogism --Kind of deduction in which the premises and conclusions have forms such as “All A are B” and “No A are B”.
+
+Synapse --Space in which a signal passes from one neuron to another.
+
+Target analog --Set of objects, properties, and relations that can be learned about by comparison to a source analog.
+
+Theory --Set of hypotheses that explain observations.
+
+Thought experiment --Use of the imagination to investigate nature.
+
+Ventromedial prefrontal cortex --The bottom-middle part of the prefrontal cortex.
+
+Whorf hypothesis-- Conjecture that language determines how we perceive and think about the world. 

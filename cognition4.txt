@@ -1,0 +1,148 @@
+Amnesia: Partial or total loss of memory
+Aphasia: Partial or total loss of language production or comprehension by injury to certain areas of the brain
+Autism: A neurological disorder characterized by communication deficiencies, sensory integration dysfunction, and a lack of social ability.
+Axon: A portion of a neuron consisting of a single long fiber that usually conducts impulses away from the cell body. 
+Basal Ganglia: Gray matter embedded in the white matter of the brain; involved with control of movement.
+Behaviorism: A school of psychology that limits itself to studying only observable and measurable behavior, rather than subjective factors such as emotion.
+Bipolar Disorder: A disorder thought to be at least partially neurological, and characterized by alternating periods of mania and depression.
+Brain Mapping: A project with the goal of identifying all of the components of the brain, as well as each component’s function.
+Brain Plasticity: The ability of certain brain structures to take over the functions of another, damaged part of the brain.
+Broca’s Aphasia: The partial or complete inability to produce spoken language and use certain grammatical rules, due to damage in the Broca’s Area of the brain.
+Broca’s Area: An area located in the frontal lobe of the left cerebral hemisphere that is involved in language production. 
+Categorization: The organization of concepts into classes, a method that allows us to better process information and understand the world.
+Cell Assembly: A set of neurons that act as a unit, due to having been frequently activated at the same time.
+Cerebrospinal Fluid: A clear liquid found in and around the brain, and around the spinal cord.
+Cerebrum: The upper part of the brain occupying most of the cranial cavity, divided into a left and right hemisphere joined by the corpus callosum.
+Chunks (chunking): A method of memorization where one groups pieces of information together and remembers the entire “chunks”, rather than each piece of information.
+Cognition: The mental process engaged in by the human brain, including perception, learning, memory, problem solving, thinking, and imagining.
+Computer Axial Tomography (CAT): A procedure where a computer forms a complete image by putting together images from multiple angles produced by a rotating X-ray beam.
+Concept: A general idea or notion of an entity formed in the mind, based on specific instances or occurrences.
+Contralateral: An adjective that, when used in neuroscience, describes how each side of the body is mainly controlled by the brain hemisphere on the opposite side. Corpus Callosum: a dense mass of nerve fibers that connects the cerebral hemispheres, allowing easy communication between the left and right sides of the brain.
+Cortex: the layer of neural cells covering the cerebral hemispheres that is responsible for most high-level cognitive processes.
+Craniotomy: A surgical procedure involving the opening of the skull to expose the brain.
+Critical period: The period during with a cognitive ability is usually acquired, provided that the required environmental stimulus is present. If it is not, then the chances of acquiring the ability at some other point in time is far lower.
+Declarative Knowledge: A recognition and understanding of factual information.
+Declarative Memory: Memory that is directly accessible and that one has conscious awareness of.
+Dendrite: A branched extension of a nerve cell that acts as the receiving end.
+Descriptive Rules: Rules of language that are formed naturally and spontaneously by speakers, as opposed to rules that are developed and taught by grammar experts.
+Developmental Psycholinguistics: The branch of linguistics concerned with the development of and changes in mental processes and actions as people use language.
+DNA: Deoxyribonucleic acid, the part of the chromosome that contains the genetic information.
+Dualism: The philosophical theory that the mind and the body are two separate entities.
+Dyslexia: A neurological condition characterized by impairment in reading and writing abilities.
+Echoic Memory: A form of auditory memory that remains in the mind for a few seconds after the auditory stimulus.
+Elaboration: A method of memorization where associations are made between new information and already acquired knowledge.
+Electroencephalogram (EEG): A recording of electrical activity in the brain.
+Electroencephalography: The process where, during an EEG, a machine creates line tracings to record electrical activity in the brain.
+Emergent Property: A property of a system that results from the functioning of components of that system.
+Empirical: Relying on or derived from observation or experiment.
+Empiricism: The notion that all knowledge comes from observation and experience, and gets to the mind through the senses.
+Episodic Memory: Memory of events or episodes that one experienced personally at a particular time and place.
+Epistemology: The branch of philosophy that studies the nature of knowledge, its presuppositions and foundations, and its extent and validity.
+Explicit Memory: Memory that one consciously retrieves. 
+Features: Characteristics of a category that an entity must possess, and need only possess, in order to belong in that category.
+First-Language Attrition: The loss of one’s first language.
+Frontal Lobe: The section of the cerebral cortex involved in planning, judgment, speaking, and muscle movements.
+g: The symbol that represents general intelligence.
+Generative Transformational Grammar: A grammar developed by Chomsky, based on the idea that humans can create original sentences.
+Grammar: The entire set of rules of a language that speakers must consciously or unconsciously learn in order to correctly use the language. 
+Hemorrhage: A heavy discharge of blood from a ruptured blood vessel.
+Heuristic: A “rule of thumb” that serves as a guide in cognitive tasks such as problem solving.
+Hippocampus: the neural structure involved in emotion, motivation, and the formation of new memories. Part of the limbic system. 
+Iconic Memory: A form of visual memory that stays in the mind a few seconds after the visual stimulus.
+Implicit Memory: Memory that one retrieves unconsciously.
+Innate Knowledge: Knowledge that one has been born with.
+Introspection: The process of “looking inside oneself” and being highly aware of one’s thoughts.
+IQ: Intelligence Quotient, measured by dividing one’s mental age by one’s chronological age, and then multiplying the result by one hundred. 
+Language Acquisition Device: A theoretical device that one is born with inside one’s mind that allows a person to learn language.
+Least Noticeable Difference: The smallest degree of change in sensory stimulation that one can detect.
+Lesion: An injury to a part of the body.
+Lexical Retrieval: The finding of words in one’s vocabulary.
+Linguistic Competence: One’s ability to use one’s language.
+Linguistic Performance: How one actually uses one’s language, regardless of competence.
+Localization of Function: The brain’s characteristic of having different parts that perform different, specific functions.
+Logical Positivist School: The school of thought that states that there are two types of true statements. The first type is empirically verifiable, and the second type is linguistically verifiable.
+Longitudinal Studies: A type of study where the same subject or set of subjects participate at two or more different points in their lives.
+Long-term Memory: The hypothetical construct of a long-term store of memories that holds these memories for a long time. 
+Magnetic Resonance Imaging (MRI): A technique of mapping where magnetic fields and radio waves are used to create computerized images (for instance, of brain structure).
+Materialism: The school of thought that all matter is made up of tiny particles, and each different type of matter has particles with unique properties.
+Mental Imagery: Images that one can “see” in one’s mind but are not visible to the eye.
+Mental Rotation: The process of imagining the rotating of imaginary objects.
+Metacomponents: The executive processes required for planning, monitoring, and evaluating problem solving.
+Metaphysics: The branch of philosophy that examines the nature of reality.
+Mnemonic Device: A device used to remember facts (for instance, the use of acronyms or associations).
+Monolingual: A person who speaks one language.
+Morphology: The study of the structure and form of words in a language.
+Multistore Mode: A model of the memory system that includes many hypothetical components, such as the long-term store and the short-term store. 
+Natural Categories: Categories that one’s mind naturally forms based on real-life experiences.
+Nature-Nurture Question: The question of how much of one’s mind and behavior are a result of biological factors, and how much are a result of environmental influences.
+Neural Network: A real or virtual device modeled after the human brain that involves the connection between several elements that work together to learn.
+Neuroimaging: The creating of images of the brain by a machine.
+Neuron: A cell that makes up part of the nervous system.
+Neurosurgeon: A surgeon that operates on the brain.
+Node: The representation of a concept in a neural network.
+Nonfunctional Degeneration: A system’s processing of forgetting learned material due to a lack of use.
+NP: Noun Phrase, or a portion of a sentence containing a noun. 
+Occipital Lobe: The section of the cerebral cortex responsible for visual processing.
+Onomatopoeia: A word that sounds like its meaning. 
+Perception: The set of psychological processes by which people interpret or understand sensory experiences.
+Performances: Statements where one is performing what they state (“I promise”).
+Phoneme: The smallest phonetic unit in a language that can add meaning to a word.
+Phonology: The study of speech sounds in language.
+Phrenology: A false science developed by Gall in the nineteenth century that aimed to describe subjects’ personalities based on the bumps on their heads.
+Polyglot: One that speaks many languages.
+Positron Emission Tomography: A technique where blood flow in the brain is recorded with the use of radioactive isotopes.
+Preposition: A word placed before a noun in a sentence, usually used to indicate the relation of that noun in space or time.
+Prescriptive Rules: Rules of language that are developed and taught by grammar experts, as opposed to rules that are formed naturally and spontaneously.
+Presuppositions: A statement in which a certain state of affairs is presumed (In the statement “My brother has given up being a firefighter”, it can be assumed that he was a firefighter before).
+Priming: An effect produced when, in a neural network, nodes that stand for different concepts become associated with each other and thus, when one is activated, the associated nodes become accessible.
+Procedural Knowledge: The cognitive ability to perform tasks that are done so often that they are done “automatically”.
+Procedural Memory: A type of unconscious memory responsible for humans’ ability to perform (such as ride a bike) rather than recollect.
+Proposition: A complete statement that can be either true or false.
+Propositional Representations: Thoughts stored in the mind, mainly unconsciously, that can be translated into propositional statements when accessed.
+Propositional Network: A network of associated propositions. Also referred to as a “semantic network”.
+Prosopagnosia: The inability to categorize or recognize faces.
+Prototype: The member of a category that can be seen as the “average” of that category, such as the “typical bird” or the “typical house”.
+Psychometrician: An expert in the field of psychometrics, or intelligence testing.
+Psychometrics: The branch of psychology that deals with the designing and interpretation of intelligence tests.
+Psychophysical Parallelism: Leibniz’s theory that the mind and body do not interact, but function in parallel. 
+Rationalist School: The position that knowledge does not enter the mind via sensation and experience. Rather, all ideas (or an internal mechanism for forming ideas) are innate.
+Receptive Field: A region of receptors that function together to send messages to the central nervous system.
+Recursion: When an element of a system (such as in computer programming) is embedded within itself.
+Reductionism: The theory that all objects and events can be understood in terms of lawful behavior of the elements of which they are made.
+Reference: What a word refers to, as opposed to the word’s meaning.
+Rehearsing: The repetition of new information in order to encode it into memory.
+RNA: Ribonucleic Acid, a constituent of all living cells, that works with DNA. 
+Sapir-Whorf Hypothesis: The idea that a society’s language shapes the way the members think, and that distinctions made in one language will not necessarily be the same as distinctions made in another language.
+Schizophrenia: A mental illness that can be characterized by delusions, hallucinations, paranoia, and/or other mental issues.
+Scripts: Stored knowledge of sequences of behavior that one follows in certain common situations.
+Semantic Memory: Knowledge in long-term memory that includes language comprehension, vocabulary, and concepts.
+Semantics: The branch of linguistics that focuses on the meaning of words and sentences.
+Sense: In linguistics, the meaning of a word.
+Sensory Discrimination: The ability to discriminate between different intensities of the same type of stimulus.
+Sensory Store: The part of the multistore model of memory where memory of sensory stimuli is stored for a few seconds before either fading or entering a longer-term memory store.
+Short Term/Working Memory Store: The part of the multistore model of memory where memory of the current moment is stored and worked out.
+SHRDLU: An early artificially intelligent machine that was meant to simulate language processing in humans.
+Soma: The main body of a nerve cell.
+Stream of Consciousness: The course of one thought leading to another.
+Subordinate Semantic Category: A category that falls within another category.
+Subsumption Architecture: A type of program used in artificial intelligence where the machine is able to perform several tasks, but tasks are ranked on a hierarchy so the more important task for the moment overrides the others.
+Superordinate Semantic Category: A category that subsumes another category.
+Synapse: The junction where a nerve impulse passes from one neuron to another.
+Syntax: The rules for arrangement of words in a sentence. 
+Temporal Lobe: The section of the cerebral cortex chiefly responsible for auditory processing.
+Thalamus: The brain’s sensory switchboard, which directs messages to the sensory receiving areas in the cortex and transmits replies to the cerebellum and medulla.
+Theory of Spreading Activation: A theory applied to neural networks, and made to explain why we easily form associations between concepts. These theory states that when a node is activated, the activation spreads across the network, causing stronger links between nodes to strengthen and weaker links to continue to weaken.
+Threshold: The lowest point at which a stimulus begins to produce a sensation.
+Truth Value: The status of a statement as either true or false.
+Turing Machine: A theoretical machine imagined by Alan Turing that has an infinite tape running that it can read from or write to. It can change its state by reading certain symbols (in binary code) on the tape.
+Turing Test: A test to determine if an artificially intelligence machine is successful. It is successful if its answers to questions are indistinguishable from the answers a human would give. 
+Unipolar Disorder: A disorder characterized by either persistent mania or persistent depression.
+Universal Grammar: A concept developed by Noam Chomsky, stating that all languages humans speak have the same basic grammatical structure.
+Universal Machine: A theoretical machine, described by Alan Turing, that can execute any program that it is able to read. 
+Ventricles: Four large protective spaces in the brain that contain cerebrospinal fluid.
+Visual Field: The area that one can see without moving one’s eyes.
+VP: Verb Phrase, or portion of a sentence containing a verb. 
+Waveform: Used in EEG scans, a wavelike image that represents changes in energy in the brain.
+Wernicke’s Aphasia: The partial or complete inability to comprehend language, due to damage in the Wernicke’s area of the brain.
+Wernicke’s Area: An area located in the left temporal lobe of the brain that is involved in language comprehension. 
+X Ray: Electromagnetic radiation that is partially absorbed by the body, and partially unabsorbed and able to pass through the body and create an image of internal organs. 

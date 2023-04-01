@@ -1,0 +1,509 @@
+
+A
+
+action potential: Sometimes called a “spike” or described as a neuron “firing,” an action potential occurs when there is a significant increase in the electrical activity along the membrane of a nerve cell. It is associated with neurons passing electrochemical messages down the axon, releasing neurotransmitters to neighboring cells in the synapse.
+
+addiction: Now commonly called substance use disorder, addiction is a mental health condition where a person’s progressive and chronic use of drugs or alcohol leads to issues with personal relationships, the ability to work, and one’s physical health.
+
+adrenal glands: Located on top of each kidney, these two glands are involved in the body’s response to stress and help regulate growth, blood glucose levels, and the body’s metabolic rate. They receive signals from the brain and secrete several different hormones in response, including cortisol and adrenaline.
+
+adrenaline: Also called epinephrine, this hormone is secreted by the adrenal glands in response to stress and other challenges to the body. The release of adrenaline causes a number of changes throughout the body, including the metabolism of carbohydrates to supply the body’s energy demands and increased arousal or alertness.
+
+allele: One of two or more varying forms of a gene due to genetic mutation. Differing alleles, which can be found at the same spot on a chromosome, produce variation in inherited characteristics such as hair color or blood type. A dominant allele is one whose physiological function—such as making hair blonde—occurs even when only a single copy is present (among the two copies of each gene that everyone inherits from their parents). A recessive allele’s traits only appear when two copies are present.
+
+Alzheimer’s disease: A debilitating form of dementia, this progressive and irreversible neurodegenerative disease results in the development of protein plaques and tangles that damages neurons and interfere with neural signaling, ultimately affecting memory and other important cognitive skills.
+
+amino acid: A type of small organic molecule that has a variety of biological roles but is best known as the “building block” of proteins.
+
+amino acid neurotransmitters: The most prevalent neurotransmitters in the brain, these include glutamate and aspartate, which can increase the electrochemical activity of neurons, as well as glycine and gamma-amino butyric acid (GABA), which inhibit that electrochemical activity.
+
+amygdala: Part of the brain’s limbic system, this primitive brain structure lies deep in the center of the brain and is involved in emotional reactions, such as anger or fear, as well as emotionally charged memories. It also influences behavior such as feeding, sexual interest, and the immediate “fight or flight” stress reaction that helps ensure the person’s needs are met.
+
+amyloid-beta (Aβ) protein: A naturally occurring protein in brain cells. Large, abnormal clumps of this protein form the amyloid plaques that are a physiological hallmark of Alzheimer’s disease. Smaller groupings (oligomers) of Aβ seem more toxic to brain cells and are thought by many researchers to play an important role in the Alzheimer’s disease process.
+
+amyloid plaque: The sticky, abnormal accumulations of amyloid-beta protein aggregate around neurons and synapses in the memory and intellectual centers of the brain, in people with Alzheimer’s. These are sometimes referred to as neuritic plaques or senile plaques. While amyloid plaques have long been considered markers of Alzheimer’s, they are also found to some extent in many cognitively normal elderly people. The plaques’ role in Alzheimer’s neurodegeneration remains unclear.
+
+amyotrophic lateral sclerosis (ALS): Also known as Lou Gehrig’s disease, this neurodegenerative disease results in the death of brain cells that control the muscles.
+
+angiography: A medical imaging technique that allows clinicians to visualize the interior of blood vessels, arteries, veins, and the heart.
+
+animal model: A laboratory animal that—through changes in its diet, exposure to toxins, genetic changes, or other experimental manipulations—mimics specific signs or symptoms of a human disease. Many of the most promising advances in treating brain disorders have come from research on animal models.
+
+antidepressant medication: Classes of drugs that can treat depressive symptoms by affecting the levels of specific neurotransmitters in the brain. One of the most well-known types of antidepressant are selective serotonin reuptake inhibitors.
+
+anxiety: Feelings of intense and persistent worry or fear regarding everyday situations. While some feelings of anxiety are normal, they can be classified as an anxiety disorder when the symptoms start to interfere with daily living.
+
+apoptosis: A form of programmed cell death that occurs as part of normal growth and development. However, in cases of brain disorders or disease, this natural process can be “hijacked,” resulting in the unnecessary death of crucial neurons.
+
+artificial intelligence (AI): computer programs or systems designed to perform tasks that normally require human intelligence, including problem-solving, learning, and decision-making behaviors.
+
+astrocyte: A star-shaped glial cell that supports neurons, by helping to both feed and remove waste from the cell, and otherwise modulates the activity of the neuron. Astrocytes also play critical roles in brain development and the creation of synapses.
+
+attention deficit hyperactivity disorder (ADHD): A neurodevelopmental disorder that affects attention systems and impulse control. While ADHD is primarily known as a pediatric disorder, it also affects adults.
+
+auditory cortex: Part of the brain’s temporal lobe, this region is responsible for hearing. Nerve fibers extending from the inner ear carry nerve impulses generated by sounds into the auditory cortex for interpretation.
+
+autism spectrum disorder (ASD): A neurodevelopmental disorder, with symptoms usually presenting within the first two years of life, characterized by issues of communication, personal interactions, and behavior. It is referred to as a spectrum disorder because of the variety in the type and severity of symptoms observed.
+
+autonomic nervous system: Part of the central nervous system that controls internal organ functions (e.g., blood pressure, respiration, intestinal function, urinary bladder control, perspiration, body temperature). Its actions are mainly involuntary.
+
+axon: A long, single nerve fiber that transmits messages, via electrochemical impulses, from the body of the neuron to dendrites of other neurons, or directly to body tissues such as muscles.
+
+axon terminal: The very end of the axon, where electrochemical signals are passed through the synapse to neighboring cells by means of neurotransmitters and other neurochemicals. A collection of axons coming from, or going to, a specific brain area may be called a white matter fiber tract.
+B
+
+basal ganglia: A group of structures below the cortex involved in motor, cognitive, and emotional functions.
+
+basilar artery: Located at the base of the skull, the basilar artery is a large, specialized blood vessel that supplies oxygenated blood to the brain and nervous system.
+
+biomarkers: A measurable physiological indicator of a biological state or condition. For example, amyloid plaques—as detected on amyloid PET scans—are a biomarker of Alzheimer’s disease. Biomarkers can be used for both diagnostic and therapeutic purposes.
+
+bipolar disorder: Also known as manic depression or manic-depressive disorder, bipolar disorder is characterized by unpredictable changes in mood, as well as energy and activity levels, that can interfere with everyday tasks.
+
+blood-brain barrier: A protective barrier that separates the brain from the blood circulating across the body. The blood-brain barrier is semipermeable, meaning it allows the passage of water as well as molecules like glucose and other amino acids that help promote neural function.
+
+brain-computer interface: A device or program that permits direct or indirect collaboration between the brain and a computer system. For example, a device that harnesses brain signals to control a screen cursor or a prosthetic limb.
+
+brain-derived neurotrophic factor (BDNF): Sometimes referred to as “brain fertilizer,” BDNF is a protein that helps promote the growth, maintenance, and survival of neurons.
+
+brain imaging: Refers to various techniques, such as magnetic resonance imaging (MRI), diffusion tensor imaging (DTI), and positron emission tomography (PET), that enable scientists to capture images of brain tissue and structure and to reveal what parts of the brain are associated with behaviors or activities. Structural brain imaging is concerned with identifying the anatomy of the brain and its changes with disease. Functional brain imaging is concerned with identifying the pattern of activity in the brain when people are at rest or when they are performing a task.
+
+brain stem: A primitive part of the brain that connects the brain to the spinal cord, the brain stem controls functions basic to survival, such as heart rate, breathing, digestive processes, and sleeping.
+
+brain tumor: A mass or growth of abnormal cells found in the brain. While people may commonly equate brain tumors with cancer, many tumors are benign—but their location in the brain can still interfere with normal brain function.
+
+brain waves: Rhythmic patterns of neural activity in the central nervous system, brain waves can also be called neural oscillations.
+
+Broca’s area: Discovered by French physician Paul Broca in the late 19th century, this small region in the left frontal lobe has been linked to speech production.
+C
+
+cell body: Also known as the soma, this central part of the neuron contains the nucleus of the neuron. The axon and dendrites connect to this part of the cell.
+
+central nervous system: The brain and spinal cord constitute the central nervous system and are part of the broader nervous system, which also includes the peripheral nervous system.
+
+central sulcus: The primary groove in the brain’s cerebrum, which separates the frontal lobe in the front of the brain from the parietal and occipital lobes in the rear of the brain.
+
+cerebellar artery: The major blood vessel providing oxygenated blood to the cerebellum.
+
+cerebellum: A brain structure located at the top of the brain stem that coordinates the brain’s instructions for skilled, repetitive movements and helps maintain balance and posture. Research suggests the cerebellum may also play a role, along with the cerebrum, in some emotional and cognitive processes.
+
+cerebral palsy: A developmental disorder resulting from damage to the brain before or during birth, usually characterized by impaired muscle coordination and body movements, but can also include impaired cognition and social behavior.
+
+cerebrospinal fluid (CSF): The clear, colorless liquid found surrounding the brain and spinal cord. This fluid can be analyzed to detect diseases.
+
+cerebrum: The cerebrum is the largest brain structure in humans, accounting for about two-thirds of the brain’s mass and positioned over and around most other brain structures. The cerebrum is divided into left and right hemispheres, as well as specific areas called lobes that are associated with specialized functions.
+
+chromosome: A threadlike structure of nucleotides that carries an organism’s genes or genetic information.
+
+chronic encephalopathy syndrome (CES): Symptoms, including memory issues, depression, and impulsive behavior, that manifest themselves after repeated brain traumas. Over time, CES can result in a diagnosis of chronic traumatic encephalopathy (CTE).
+
+chronic traumatic encephalopathy (CTE): Once known as dementia pugilistica and thought to be confined largely to former boxers, this neurodegenerative disease, with symptoms including impulsivity, memory problems, and depression, affects the brains of individuals who have suffered repeated concussions and traumatic brain injuries.
+
+cochlea: The part of the inner ear that transforms sound vibrations into neural impulses.
+
+cognition: A general term that includes thinking, perceiving, recognizing, conceiving, judging, sensing, reasoning, and imagining.
+
+cognitive neuroscience: The field of study that investigates the biological processes in the brain that underlie attention, memory, and other facets of cognition.
+
+computational neuroscience: An interdisciplinary field of study that uses information processing properties and algorithms to further the study of brain function and behavior.
+
+computed tomography (CT or CAT): An X-ray technique introduced in the early 1970s that enables scientists to take cross-sectional images of the body and brain. CT uses a series of X-ray beams passed through the body to collect information about tissue density, then applies sophisticated computer and mathematical formulas to create an anatomical image from the data.
+
+concussion: A type of mild traumatic brain injury resulting from a blow or hit to the head that causes the brain to move rapidly back and forth inside the skull.
+
+cone: A type of photoreceptor cell responsible for color vision that is found in the retina.
+
+connectome: A detailed map of the myriad neural connections (also called fiber tracts) that make up the brain and nervous system.
+
+consciousness: The state of being aware of one’s feelings and surroundings; the totality of one’s thoughts, feelings, and impressions.
+
+corpus callosum: The collection of nerve fibers connecting the two cerebral hemispheres.
+
+cortex: The outer layer of the cerebrum. Sometimes referred to as the cerebral cortex.
+
+cortisol: A steroid hormone produced by the adrenal glands that controls how the body uses fat, protein, carbohydrates, and minerals, and helps reduce inflammation. Cortisol is released in the body’s stress response; scientists have found that prolonged exposure to cortisol has damaging effects on the brain.
+
+critical period: A period of development during which an ability or characteristic is thought to be most easily learned or attained.
+
+CRISPR (clustered regularly-interspaced short palindromic repeats): A relatively precise and reliable DNA-editing technique.
+D
+
+deep brain stimulation: A method of treating various neuropsychiatric and neurodegenerative disorders through small, controlled electric shocks administered from a special battery-operated neurostimulation implant. The implant, sometimes called a “brain pacemaker,” is placed within deep brain regions such as the globus pallidus or subthalamus.
+
+deep learning: See machine learning.
+
+default-mode network: The network indicates that the brain remains active even if not involved in a specific task. Even when you are daydreaming, the brain is in an active state.
+
+dementia: General mental deterioration from a previously normal state of cognitive function due to disease or psychological factors. Alzheimer’s disease is one form of dementia.
+
+dendrites: Short nerve fibers that project from a neuron, generally receiving messages from the axons of other neurons and relaying them to the cell’s nucleus.
+
+depression: A mood or affective disorder characterized by sadness and lack of motivation. Depression has been linked to disruptions in one or more of the brain’s neurotransmitter systems, including those related to serotonin and dopamine.
+
+Diagnostic and Statistical Manual of Mental Disorders (DSM): The standard classification manual published by the American Psychiatric Association for mental health professionals to diagnose and treat mental disorders.
+
+diffusion spectrum imaging (DSI): A brain imaging method that detects the movement of water in tissue to help visualize the brain’s white matter. This approach typically allows better resolution than diffusion tensor imaging.
+
+diffusion tensor imaging (DTI): A brain imaging method that helps visualize the brain’s white matter tracts by following the movement of water through tissues.
+
+DNA (deoxyribonucleic acid): The material from which the 46 chromosomes in each cell’s nucleus is formed. DNA contains the codes for the body’s approximately 30,000 genes, governing all aspects of cell growth and inheritance. DNA has a double-helix structure—two intertwined strands resembling a spiraling ladder.
+
+digital phenotyping: The use of data collected from personal electronic devices like smart phones to diagnose and monitor medical and psychiatric conditions.
+
+dominant gene: A gene that almost always results in a specific physical characteristic, for example a disease, even though the patient’s genome possesses only one copy. With a dominant gene, the chance of passing on the gene (and therefore the trait or disease) to children is 50-50 in each pregnancy.
+
+dopamine: A neurotransmitter involved in motivation, learning, pleasure, the control of body movement, and other brain functions.
+
+double helix: The structural arrangement of DNA, which looks something like an immensely long ladder twisted into a helix, or coil. The sides of the “ladder” are formed by a backbone of sugar and phosphate molecules, and the “rungs” consist of nucleotide bases joined weakly in the middle by hydrogen bonds.
+
+Down syndrome: A genetic disorder characterized by intellectual impairment and physical abnormalities that arises from the genome having an extra copy of chromosome 21.
+
+dyslexia: A learning disorder that affects the ability to understand and produce language. It is commonly thought of as a reading disability, although it can affect other aspects of language.
+E
+
+electroencephalography (EEG): A method that measures electrical activity in the brain using small electrodes placed on the scalp.
+
+electroconvulsive therapy (ECT): A therapeutic treatment for depression and other mental illnesses that sends small electric currents over the scalp to trigger a brief seizure.
+
+endocrine system: A system in the body composed of several different glands and organs that secrete hormones.
+
+endorphins: Hormones produced by the brain, in response to pain or stress, to blunt the sensation of pain. Narcotic drugs, such as morphine, imitate the actions of the body’s natural endorphins.
+
+enzyme: A protein that facilitates a biochemical reaction. Organisms could not function if they had no enzymes.
+
+epigenetics: A subset of genetics that focuses on how specific environmental factors can influence where, when, and how a gene is expressed, resulting in variation in the gene’s related traits.
+
+epilepsy: A neurological disorder characterized by abnormal electrical activity in the brain, leading to seizures.
+
+executive function: Higher level cognitive functions, including decision-making and judgment, involved with the control of behavior.
+F
+
+fissure: A groove or indentation observed in the brain.
+
+Fragile X syndrome: A genetic disorder that interferes with brain development, leading to learning disabilities and cognitive impairment, particularly with regards to language.
+
+frontal lobe: The front of the brain’s cerebrum, beneath the forehead. This area of the brain is associated with higher cognitive processes such as decision-making, reasoning, social cognition, and planning, as well as motor control.
+
+frontal operculum: The part of the frontal lobe that sits over the insula.
+
+frontotemporal degeneration (FTD): This is a common type of dementia caused by the loss of neurons in the frontal lobes. This disorder often strikes earlier than Alzheimer’s disease or other forms of dementia, with most patients diagnosed between their late 40’s and early 60’s. It also tends to present with more prominent behavior and social impairments as opposed to memory loss, though memory loss is common in later stages of disease.
+
+functional magnetic resonance imaging (fMRI): A brain imaging technology, based on conventional MRI, that gathers information relating to short-term changes in oxygen consumption by cells in the brain. It typically uses this information to depict the brain areas that become more or less active—and presumably more or less involved—while a subject in the fMRI scanner performs a cognitive task.
+G
+
+gamma-aminobutyric acid (GABA): A neurotransmitter implicated in brain development, muscle control, and reduced stress response.
+
+gene: The basic unit of inheritance. A gene is a distinct section of DNA code in a cell’s chromosome that instructs the cell to make a particular molecule, usually a protein or RNA. Gene defects (genetic mutations) are thought to cause many disorders including brain disorders.
+
+gene expression: The process by which a gene’s nucleotide sequence is transcribed into the form of RNA—often as a prelude to being translated into a protein.
+
+gene mapping: Determining the relative positions of genes on a chromosome and the distance between them.
+
+genome: The complete genetic map for an organism. In humans, this includes about 30,000 genes, more than 15,000 of which relate to functions of the brain.
+
+glia (or glial cells): The supporting cells of the central nervous system. They may contribute to the transmission of nerve impulses and play a critical role in protecting and nourishing neurons.
+
+glioblastoma: An invasive brain tumor made up of glial tissue, blood vessels, and dead neurons.
+
+glioma: A tumor that arises from the brain’s glial tissue.
+
+glucose: A natural sugar that is carried in the blood and is the principal source of energy for the cells of the brain and body.
+
+glymphatic system: The system that helps clear debris from the brain. During sleep, special glial cells called astrocytes form a network of conduits that allow cerebrospinal fluid to flush unwanted and unnecessary proteins out of the brain.
+
+gray matter: The parts of the brain and spinal cord made up primarily of groups of neuron cell bodies (as opposed to white matter, which is composed mainly of myelinated nerve fibers).
+
+gyrus: The ridges on the brain’s outer surface. Plural is gyri.
+H
+
+hemisphere: In brain science, refers to either half of the brain (left or right). The two hemispheres are separated by a deep groove, or fissure, down the center. Some major, specific brain functions are located in one or the other hemisphere. While popular culture suggests that “hemispheric dominance,” or which side of the brain is more active, can help inform how an individual best learns, research does not support this idea.
+
+hippocampus: A primitive brain structure, located deep in the brain, that is critical for memory and learning.
+
+hormone: A chemical released by the body’s endocrine glands (including the adrenal glands), as well as by some tissues. Hormones act on receptors in other parts of the body to influence body functions or behavior.
+
+Huntington’s disease: A neurodegenerative disorder that causes progressive death of neurons in the brain, resulting in severe movement and cognitive problems. The disorder is caused by the mutation of a single gene—and symptoms typically present when an individual is in his or her 30’s or 40’s.
+
+hypothalamus: A small structure located at the base of the brain, where signals from the brain and the body’s hormonal system interact.
+I
+
+in silico: An experimental method to study brain or neural function using computer modeling or computer simulation.
+
+in vitro: An experimental method to study brain or neural function by looking at cells outside a living organism, for example, in a test tube or petri dish.
+
+in vivo: An experimental method allowing scientists to study brain or neural function in a living organism.
+
+induced pluripotent stem cell (iPSC): A cell that has been taken from adult tissue and genetically modified to behave like an embryonic stem cell, with the ability to develop into any type of cell found in the body, including nerve cells.
+
+insula: Sometimes referred to as the insular cortex, this small region of the cerebrum is found deep within the lateral sulcus, and is believed to be involved in consciousness, emotion, and keeping the body in balance.
+
+ions: Atoms or small groups of atoms that carry an electric charge, either positive or negative. When a nerve impulse is fired, ions flow through channels in the membrane of a nerve cell, abruptly changing the voltage across the membrane in that part of the cell. This sets off a chain reaction of similar voltage changes along the cell’s axon to the synapse, where it causes the release of neurotransmitters into the synaptic cleft.
+
+ion channel: A pore in the membrane of a neuron that allows ions to pass through, helping to shape action potentials.
+K
+
+ketamine: A powerful anesthetic drug, originally manufactured for veterinary use, that has been shown to be an effective treatment for major depressive disorder, especially in patients who do not respond well to traditional antidepressant medications.
+L
+
+lesion: An injury, area of disease, or surgical incision to body tissue. Much of what we know about the functions of brain structures or pathways comes from lesion mapping studies, where scientists observe the behavior of people with an injury to a distinct area of the brain or analyze the behavior of a laboratory animal resulting from a lesion made in the brain.
+
+limbic system: A group of evolutionarily older brain structures that encircle the top of the brain stem. The limbic structures play complex roles in emotions, instincts, and appetitive behaviors.
+
+long term potentiation (LTP): The persistent strengthening of a synapse with increased use, thought to underlie learning and memory.
+
+Lou Gehrig’s disease: see amyotrophic lateral sclerosis (ALS)
+M
+
+machine learning: Also referred to as deep learning, machine learning is a type of artificial intelligence algorithm that can learn rules or identify diagnostic criteria from immense data sets of brain imaging or genetic information. These algorithms are becoming more prevalent in scientific research—and are also starting to be incorporated into translational neuroscience research and medical practice.
+
+magnetic resonance imaging (MRI): A non-invasive imaging technology, often used for brain imaging. An MRI scanner includes intensely powerful magnets, typically 10,000 to 40,000 times as strong as the Earth’s magnetic field. These magnets, combined with coils that send electromagnetic pulses into the scanned tissue, induce radio-frequency signals from individual hydrogen atoms within the tissue. The scanner records and processes these signals to create an image of the scanned tissue. MRI scans can depict high resolution images of the entire brain, allowing clinicians to determine if the brain tissue visualized is normal, abnormal, or damaged due to a neurological disorder or trauma. MRI technology has also been adapted to measure brain activity with functional MRI methods.
+
+manic-depressive disorder: See bipolar disorder.
+
+medulla oblongata: The lower part of the brain stem, responsible for life-regulating functions like breathing and heart rate.
+
+melatonin: A hormone that is secreted by the pineal gland in the brain in response to the daily light-dark cycle, influencing the body’s sleep-wake cycle.
+
+memory: The encoding and storage of information, in a way that allows it to be retrieved later. In the brain, memory involves integrated systems of neurons in diverse brain areas, each of which handles individual memory-related tasks. Memory can be categorized into two distinct types, each with its own corresponding brain areas. Memory about people, places, and things that one has experienced directly or otherwise learned about is referred to as explicit or declarative memory and is highly dependent upon the hippocampus and temporal lobe. Memory about motor skills and perceptual strategies is known as implicit or procedural memory and involves the cerebellum, the amygdala, and specific pathways related to the particular skill (e.g., riding a bicycle would involve the motor cortex).
+
+mental health: Referring to one’s psychological, emotional, and social well-being.
+
+mesolimbic circuit: See reward/reinforcement brain network.
+
+mesolimbic pathway: A specialized brain circuit implicated in the processing of risk and reward information.
+
+metabolize: To break down or build up biochemical elements in the body, effecting a change in body tissue. For example, neurons and other brain cells metabolize glucose, a blood sugar, to derive energy for transmitting nerve impulses.
+
+microbiota: The community of various microorganisms found in the digestive tract. Scientists are now learning that microbes found in the microbiota can influence brain development, mood, and behavior.
+
+microglia: A small, specialized glial cell that operates as the first line of immune defense in the central nervous system.
+
+midbrain: Also referred to as the mesencephalon, the midbrain is a small part of the brain stem that plays an important role in movement as well as auditory and visual processing.
+
+minimally conscious state: A disorder of consciousness, often caused by stroke, head injury, or loss of blood flow to the brain, in which an individual maintains partial conscious awareness, but may have great difficulty in communicating with, or understanding, other people.
+
+molecular biology: The study of the structure and function of cells at the molecular level and how these molecules influence behavior and disease processes. Molecular biology emerged as a scientific discipline only in the 1970s, with advances in laboratory technologies for isolating and characterizing DNA, RNA, proteins, and other small biological entities.
+
+mood: A state of mind or feeling. In neuroscience, depression and anxiety are considered mood disorders, for example.
+
+motor cortex: The part of the brain’s cerebrum, just to the front of the central sulcus in the frontal lobe, that is involved in movement and muscle coordination. Scientists have identified specific spots in the motor cortex that control movement in specific parts of the body, the so-called “motor map.”
+
+multiple sclerosis: A progressive neurodegenerative disease involving damage to the protective myelin sheaths of nerve cells in the brain and spinal cord. Symptoms include impaired movement, pain, and fatigue.
+
+mutation: A permanent structural alteration to DNA that modifies its previous nucleotide sequence. In most cases, DNA changes either have no effect or cause harm, but occasionally a mutation improves an organism’s chance of surviving and procreating.
+
+myelin: The fatty substance that encases most nerve cell axons, helping to insulate and protect the nerve fiber and effectively speeding up the transmission of nerve impulses.
+N
+
+narcotic: A synthetic chemical compound that mimics the action of the body’s natural endorphins—hormones secreted to counteract pain. Narcotic drugs have a valid and useful role in the management of pain but may lead to physical dependence in susceptible individuals if used for long periods.
+
+nerve growth factor: Also referred to as a neurotrophic factor, this special protein helps regulate the growth and survival of nerve cells. One of the most well-known of these is brain-derived neurotrophic factor (BDNF).
+
+nerve cell: See neuron.
+
+nerve impulse: Also referred to as a nerve signal, the way that a neuron communicates with other cells by transmitting an electrochemical signal down the length of the axon.
+
+nervous system: The system in the body that processes and transmits signals from the brain to the rest of the body to facilitate movement and behavior. It consists of two parts, the central nervous system, or the brain and spinal cord, and the peripheral nervous system, the nerves that branch off from the spinal cord extending throughout the rest of the body.
+
+neuroeconomics: An interdisciplinary field of study that uses neuroscientific research to help explain human decision-making behavior.
+
+neurodegenerative diseases: Diseases characterized by the progressive deterioration and death of nerve cells (neurodegeneration), typically originating in one area of the brain and spreading to other connected areas. Neurodegenerative diseases include amyotrophic lateral sclerosis (ALS), Huntington’s disease, Alzheimer’s disease, frontotemporal degeneration, and Parkinson’s disease.
+
+neurodevelopmental disorder: Disorders or conditions arising from impairments during the development and maturation of the brain and/or nervous system. Neurodevelopmental disorders include schizophrenia and autism spectrum disorder.
+
+neuroeducation: Sometimes referred to as educational neuroscience, this collaborative, interdisciplinary field of study uses findings in cognitive neuroscience to inform teaching and other educational practices.
+
+neuroethics: An interdisciplinary field of study that addresses the ethical implications of our increased ability to understand and change the brain. Enhanced cognitive performance, life extension, the use of neuroscience in marketing, and many other issues are included in this ongoing social-scientific debate.
+
+neurogenesis: The production of new, maturing neurons by neural stem and progenitor cells. Rapid and widespread neurogenesis obviously occurs in the fetal brain in humans and other animals, but neuroscientists long believed that neurogenesis essentially does not occur in the adult human brain. However, over the past two decades, research has shown that it does in fact occur in the dentate gyrus of the hippocampus and possibly other brain regions. This “adult neurogenesis” appears to be vital for normal learning and memory, and may help protect the brain against stress and depression.
+
+neuroimmunology: A complex field in biomedical research, which focuses on the brain, the immune system, and their interactions. Neuroimmunology holds the potential for conquering ills as diverse as spinal cord injury, multiple sclerosis, and bodily reactions to bacteria or viruses, both naturally occurring and intentionally inflicted. In some circumstances, an abnormal neuroimmune response can damage brain tissue.
+
+neuroplasticity: Also referred to as brain plasticity or neural plasticity, this is the ability of the brain to change throughout the lifespan, forming new synapses and neural connections in response to the environment.
+
+neuron: A nerve cell. The basic unit of the central nervous system, the neuron is responsible for the transmission of nerve impulses. Unlike any other cell in the body, a neuron consists of a central cell body as well as several threadlike “arms” called axons and dendrites, which transmit nerve impulses. Scientists estimate that there are approximately 86 billion neurons in the human brain.
+
+neuroscience: The study of the brain and nervous system, including their structure, function, and disorders. Neuroscience as an organized discipline gained great prominence in the latter part of the 20th century.
+
+neurotransmitter: A chemical that acts as a messenger between neurons and is released into the synaptic cleft when a nerve impulse reaches the end of an axon. Several dozen neurotransmitters have been identified in the brain so far, each with specific, often complex roles in brain function and human behavior.
+
+neurotrophic factor: See nerve growth factor.
+
+nucleotide: Sometimes referred to as a nucleic acid, these are the biological building blocks of DNA.
+
+nucleotide sequence: A specific and ordered array of nucleotides that make up a specific genetic variant or allele.
+
+nucleus accumbens: Part of the brain’s reward circuitry, or mesolimbic pathway, this small region in the midbrain releases dopamine in response to rewarding experiences.
+
+nurture: A popular term for the influence of environmental factors on human development, such as the experiences one is exposed to in early life. The term is often used in the context of “nature versus nurture,” which relates to the interplay of “nature” (genetic or inherited, predetermined influences) and environmental, or experiential, forces.
+O
+
+obsessive compulsive disorder (OCD): A form of anxiety disorder characterized by unreasonable thoughts, or obsessions, which result in compulsive, repetitive behaviors.
+
+occipital lobe: A part of the brain’s cerebrum, located at the rear of the brain, above the cerebellum. The occipital lobe is primarily concerned with vision and encompasses the visual cortex.
+
+olfactory: Pertaining to the sense of smell. When stimulated by an odor, olfactory receptor cells in the nose send nerve impulses to the brain’s olfactory bulbs, which then transmit the impulses to olfactory centers in the brain for interpretation.
+
+opiate: A synthetic (e.g., Demerol, Fentanyl) or plant-derived (e.g., opium, heroin, morphine) compound that binds and activates opioid receptors on certain neurons. Opiates typically but not always have pain-relieving, anxiety-reducing, and even euphoria-inducing effects, and are generally considered addictive.
+
+opioid: An artificially derived drug or chemical that acts on the nervous system in a similar manner to opiates, influencing the “pleasure pathways” of the dopamine system by locking on to specialized opioid receptors in certain neurons.
+
+opioid receptors (e.g., mu, delta, kappa): A class of receptors found on neurons in the brain, spinal cord, and digestive tract. Opioid receptors are involved in numerous functions, including pain control, mood, digestion, and breathing.
+
+optic nerve: One of the twelve pairs of cranial nerves in the human body, the optic nerve transmits information from the retina, at the back of the eye, to the brain.
+
+optogenetics: An innovative neuroscientific technique that uses light to turn genetically modified neurons on and off at will, in live animals.
+
+oxytocin: Sometimes referred to as the “cuddle chemical,” this hormone can work as a neurotransmitter in the brain and has been linked to social attachment and parental care. While there are “love” sprays on the market that are said to contain oxytocin, there is no evidence that these concoctions have any effect on social relationships.
+P
+
+pain receptors: Specialized nerve fibers in the skin and on the surfaces of internal organs, which detect painful stimuli and send signals to the brain.
+
+parietal lobe: The area of the brain’s cerebrum located just behind the central sulcus. It is concerned primarily with the reception and processing of sensory information from the body and is also involved in map interpretation and spatial orientation (recognizing one’s position in space in relation to other objects or places).
+
+Parkinson’s disease: A neurodegenerative disorder characterized by tremor, slowed movement, and speech changes due to the death of dopamine neurons located in the substantia nigra.
+
+perception: The way the brain organizes, processes, and interprets sensory information to give rise to our ability to make sense of and navigate the world around us.
+
+peripheral nervous system: The nervous system outside the brain and spinal cord.
+
+persistent vegetative state: A disorder of consciousness, often following severe brain trauma, in which an individual has not even minimal conscious awareness. The condition can be transient, marking a stage in recovery, or permanent.
+
+pharmacotherapy: The use of pharmaceutical drugs for therapeutic purposes.
+
+pituitary gland: An endocrine organ at the base of the brain that is closely linked with the hypothalamus. The pituitary gland is composed of two lobes, the anterior and posterior lobes, and secretes hormones that regulate the activity of the other endocrine organs in the body.
+
+plasticity: In neuroscience, refers to the brain’s capacity to change and adapt in response to developmental forces, learning processes, injury, or aging.
+
+positron emission tomography (PET): An imaging technique, often used in brain imaging. For a PET scan of the brain, a radioactive “marker” that emits, or releases, positrons (parts of an atom that release gamma radiation) is injected into the bloodstream. Detectors outside of the head can sense these “positron emissions,” which are then reconstructed using sophisticated computer programs to create computer images. Since blood flow and metabolism increase in brain regions at work, those areas have higher concentrations of the marker, and researchers can see which brain regions activate during certain tasks or exposure to sensory stimuli. Ligands can be added to a PET scan to detect pathological entities such as amyloid or tau deposits.
+
+postsynaptic cell: The neuron on the receiving end of a nerve impulse transmitted from another neuron.
+
+post-traumatic stress disorder (PTSD): A mental disorder that develops in response to a traumatic event such as combat, sexual assault, or abuse. Symptoms can include mood disturbances, hyperarousal, memory flashbacks, sleep problems, anxiety, and depression.
+
+prefrontal cortex: The area of the cerebrum located in the forward part of the frontal lobe, which mediates many of the higher cognitive processes such as planning, reasoning, and “social cognition”—a complex skill involving the ability to assess social situations in light of previous experience and personal knowledge, and interact appropriately with others. The prefrontal cortex is thought to be the most recently evolved area of the brain.
+
+premotor cortex: The area of the cerebrum located between the prefrontal cortex and the motor cortex, in the frontal lobe. It is involved in the planning and execution of movements.
+
+presynaptic cell: In synaptic transmission, the neuron that sends a nerve impulse across the synaptic cleft to another neuron.
+
+prion: A protein aggregate that can multiply itself, inducing the formation of new aggregates from individual copies of the protein it encounters. Prions have the potential to spread within the body and brain, and even from one organism to another—“infectiously,” like a virus. The first prions described were hardy aggregates of PrP, the prion protein. They are responsible for a set of rapid, fatal, and potentially transmissible neurodegenerative diseases including Creutzfeldt-Jakob disease and bovine spongiform encephalopathy (“mad cow disease”). Many researchers now argue that protein aggregates in other neurodegenerative diseases, such as the Aβ and tau plaques of Alzheimer’s, have such similar properties that they also deserve to be called prions.
+
+protein folding: The process by which the chain of amino acids that make up a protein assumes its functional shape. The protein clumps and tangles that occur in some neurodegenerative disorders are thought to be triggered when proteins “misfold.”
+
+psychiatry: A medical specialty dealing with the diagnosis and treatment of mental disorders. Psychiatrists are physicians who can prescribe medicine and perform certain medical treatments. (Contrast with psychology)
+
+psychoactive drug: A broad term to describe a drug that acts on the brain and changes one’s mental state, like elevating mood or reducing inhibitions. Psychoactive pharmaceuticals can help control the symptoms of some neurological and psychiatric disorders. Many “recreational drugs” are also psychoactive drugs.
+
+psychological dependence: In the science of addiction, psychological dependence refers to the psychological factors, including mood and motivation that help to sustain addictive behaviors (like craving a cigarette after a meal), as opposed to the physical dependence that manifests when a person attempts to stop using a particular substance (e.g., tremors, racing pulse). Brain scientists now understand that psychological factors are central to addictive disorders and are often the most difficult to treat.
+
+psychology: An academic or scientific field of study concerned with the behavior of humans and animals and related mental processes. Psychologists typically have Ph.D. degrees and while able to evaluate and treat mental disorders, are rarely able to prescribe medication. (Contrast with psychiatry)
+
+psychosis: A severe symptom of mental illness in which a person’s thoughts and perceptions are so disordered that the individual loses touch with reality.
+R
+
+rapid eye movement (REM) sleep: A stage of sleep occurring approximately 90 minutes after sleep onset characterized by increased brain activity, rapid eye movements, and muscle relaxation.
+
+receptors: Molecules on the surfaces of neurons whose structures precisely match those of chemical messengers (such as neurotransmitters or hormones) released during synaptic transmission. The chemicals attach themselves to the receptors, in lock-and-key fashion, to activate the receiving cell structure.
+
+recessive: A genetic trait or disease that appears only in patients who have received two copies of a mutant gene, one from each parent.
+
+recovery of function: The ability of the nervous system to repair or compensate for damage to the brain or nervous system after insult or injury in order to regain function. For example, after a stroke, many individuals must learn how to walk or talk again.
+
+rehabilitation: The process by which people can repair, recover, or compensate for functional abilities after sustaining damage to the nervous system. Rehabilitation activities may include speech, physical, or occupational therapies.
+
+resting state: The state of the brain when it is not consciously engaged in an explicit task. Brain imaging techniques such as fMRI can be used to measure the residual activity that occurs in this state.
+
+retina: The sensory membrane at the back of the eye that processes light information to facilitate sight.
+
+reward/reinforcement brain network: Also known as the mesolimbic circuit, this important network of brain regions stretching from the brain stem to the frontal lobes is implicated in risk and reward processing, as well as learning.
+
+reuptake: A process by which released neurotransmitters are absorbed for subsequent re-use.
+
+RNA (ribonucleic acid): A chemical similar to a single strand of DNA. The sugar is ribose, not deoxyribose, hence RNA. RNA delivers DNA’s genetic message to the cytoplasm of a cell, where proteins are made.
+
+rod: A type of photoreceptor, usually found on the outer edges of the retina, that helps facilitate peripheral vision.
+S
+
+schizophrenia: A neurodevelopmental disorder characterized by disordered thinking, delusions, and hallucinations. It affects less than 1% of Americans.
+
+senses: The bodily organs that provide critical information for perception and behavior from the outside world. The five classic senses are: sight, hearing, taste, touch, and smell.
+
+serotonin: A neurotransmitter believed to play many roles, including, but not limited to, temperature regulation, sensory perception, and the onset of sleep. Neurons using serotonin as a transmitter are found in the brain and in the gut. A number of antidepressant medications are targeted to brain serotonin systems.
+
+social neuroscience: The field of study investigating the biological systems underlying social processes and behavior.
+
+soma: See cell body.
+
+somatosensory cortex: Located in the parietal lobe, this region of the brain processes touch, pressure, and pain information.
+
+sonogenetics: A novel investigative approach that turns genetically modified neurons on and off using ultrasonic waves.
+
+sono-stimulation: The activation of neural networks using ultrasound.
+
+spinal cord: The “other half” of the central nervous system (with the brain). The spinal cord is a cable that descends from the brain stem to the lower back. It consists of an inner core of gray matter surrounded by white matter.
+
+stem cells: Undifferentiated cells that can grow into heart cells, kidney cells, or other cells of the body. Originally thought to be found only in embryos, stem cells in the brain have unexpectedly been discovered in adults. Researchers have shown on research animals that stem cells can be transplanted into various regions of the brain, where they develop into both neurons and glia.
+
+stress: Physical, emotional, and mental factors that result in bodily or psychological tension. Chronic stress is linked to issues with mental and physical health.
+
+striatum: A small group of subcortical structures, including the caudate nucleus, putamen, and nucleus accumbens, located in the midbrain. These regions are implicated in both movement and reward-related behaviors.
+
+stroke: A neurological event that occurs when the blood supply to the brain is blocked, depriving the tissue of oxygen, or when there is a bleed into the brain due to the rupturing of an artery.
+
+subgenual cortex: The region in the back of the frontal lobes, found below the corpus callosum, which has been implicated in mood states.
+
+substantia nigra: This small region in the midbrain is part of the brain’s reward system. In Parkinson’s disease, the dopamine neurons in this region die off, leading to the disorder’s movement-related and cognitive symptoms.
+
+subthalamic nucleus: A small brain structure, located in the basal ganglia, that plays an important role in coordinating movement. It is the most common target for neuromodulation techniques, like deep brain stimulation, to help diminish the symptoms of Parkinson’s disease.
+
+sulcus: A shallower groove on the brain’s cerebrum (deeper grooves are called fissures).
+
+synapse: The junction where an axon approaches another neuron or its extension (a dendrite); the point at which nerve-to-nerve communication occurs. Nerve impulses traveling down the axon reach the synapse and release neurotransmitters into the synaptic cleft, the tiny gap between neurons.
+
+synaptic cleft: The small space between neurons where neurotransmitters are released.
+
+synaptic pruning: A process by which specialized cells called microglia eliminate unnecessary synapses as part of normal and healthy brain development.
+
+synaptic transmission: The process of nerve-to-nerve communication in the central nervous system, whereby one neuron sends a chemical signal across the synaptic cleft to another neuron.
+T
+
+tau protein: A type of protein abundantly found in neurons. When this protein is not adequately cleared from the brain, it can form tangles that are a key pathology of several neurodegenerative disorders including frontotemporal degeneration, CTE, and Alzheimer’s disease.
+
+telomere: The protective cap found at the end of a chromosome. Research studies suggest these caps may be shortened in neurodegenerative diseases.
+
+temporal lobes: The parts of the cerebrum that are located on either side of the head, roughly beneath the temples in humans. These areas are involved in hearing, language, memory storage, and emotion.
+
+thalamus: A brain structure located at the top of the brain stem, the thalamus acts as a two-way relay station, sorting, processing, and directing signals from the spinal cord and midbrain structures to the cerebrum, and from the cerebrum down.
+
+Tourette’s syndrome: A neurological disorder, beginning in childhood, characterized by repetitive, involuntary movements or vocalizations, called tics.
+
+transcranial electrical stimulation (tDCS and tACS): A non-invasive procedure that applies electrical stimulation to the scalp to increase or decrease neural signaling. The two main types are direct current stimulation (tDCS) and alternating current stimulation (tACS). They are used for therapeutic purposes as well as to study cognitive processing.
+
+transcranial magnetic stimulation (TMS): A non-invasive procedure that uses the energy from a strong magnet to stimulate changes in neural processing from above the scalp. It is used as a treatment for depression as well as a research method to investigate cognitive processes.
+
+traumatic brain injury (TBI): An injury to the brain acquired when the head is violently shook, struck, or pierced by an object. A nearby blast or explosion, as may occur in combat, emits shock waves that can also cause a TBI. Moderate to severe TBI causes permanent impairments in brain function. Symptoms of mild TBI may include headache, dizziness, attention problems, or issues with behavior and mood.
+
+two-photon microscopy: An advanced microscopy technique that uses fluorescent markers to look at living tissue approximately one millimeter below the skin’s surface.
+U
+
+ultrasound: An imaging technique that uses sound waves to visualize the inside of the body.
+V
+
+vagus nerve: One of the twelve pairs of cranial nerves in the human body, the vagus nerve connects the brain stem to the body, transmitting information from the brain to the major organs and other tissues.
+
+vagus nerve stimulation: A neuromodulation treatment that involves a small implant that electrically stimulates the vagus nerve, which runs from the brain stem to the abdomen. It is mostly used to treat epilepsy but is also being investigated as a potential treatment for depression, bipolar disorder, and Alzheimer’s disease.
+
+vertebral arteries: The major arteries of the neck, which merge to form the basilar artery.
+
+vestibular system: Regions in the body and brain that help support balance in movement. Many people with hearing loss experience some degree of balance difficulties, since the vestibular (or balance) system and the auditory (or hearing) systems are so closely related.
+
+visual cortex: The area of the cerebrum that is specialized for vision. It lies primarily in the occipital lobe at the rear of the brain and is connected to the eyes by the optic nerves.
+W
+
+Wernicke’s area: A brain region housed in the left temporal lobe, believed to be responsible for the comprehension of speech. The region was first documented by German physician Carl Wernicke, after observing a patient with a lesion in this region who was unable to understand speech.
+
+white matter: Brain or spinal cord tissue consisting primarily of myelin-covered axons that extend from nerve cell bodies in the gray matter of the central nervous system.
+X
+
+X-ray: An imaging method that uses electromagnetic radiation to visualize the structures inside the body, particularly bones.

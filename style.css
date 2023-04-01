@@ -1,0 +1,29 @@
+BODY {
+  display: block;
+  margin: auto;
+  font-size:18px;
+  font-family:arial;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-style: ridge;  
+}
+.content{
+  width:70%;
+  text-align: justify;
+  padding: 10px;
+  margin: auto;
+}
+.entry{
+  border: 1px solid black;
+  border-style: ridge;
+  padding: 10px;
+}
+.source{
+  font-size:14px;
+  text-align:right;
+}
+.entrytitle{
+  background-color:pink;
+}
